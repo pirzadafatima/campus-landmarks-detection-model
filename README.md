@@ -20,7 +20,7 @@ This project documents the design, training, and evaluation of a deep learning m
 
 ## Dataset
 
-- Labeled images of 6 FAST-NU buildings (https://drive.google.com/drive/u/0/folders/1J-pwYV5NueoqHsO4rOExe46y2ZLrLyNz).
+- Labeled images of 6 FAST-NU buildings.
 - Original dataset size: 305 images.
 - Augmentation applied:
   - Random shifts, zooming, rotations (ImageDataGenerator)
@@ -31,9 +31,9 @@ This project documents the design, training, and evaluation of a deep learning m
 
 ## Technologies Used
 
-- **Python 3**
-- **TensorFlow / Keras** (Deep Learning Framework)
-- **OpenCV** (Image processing and augmentation)
-- **NumPy** (Numerical operations)
-- **Matplotlib** (Visualization)
-- **Pillow (PIL)** (Image file handling)
+- Python 3
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- Matplotlib
+- Pillow (PIL)
